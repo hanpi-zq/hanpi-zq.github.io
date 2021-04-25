@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: '张启的小窝'
 description: '技术小白，刚开始搭建博客，很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '廖柯宇, 廖柯宇的独立博客, 廖柯宇的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
+keyword: 'zhan99i, 学习记录和日常分享'
 url: 'https://hanpi-zq.github.io/' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
