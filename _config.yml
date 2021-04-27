@@ -21,7 +21,7 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2021
 
 # Author 配置博主信息
 author: '张启'
@@ -48,7 +48,7 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'default'  # pink or default
+theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'circuitBoard'
@@ -59,7 +59,7 @@ sns:
   #weibo: '//weibo.com/lovecolcol'
   #juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   #instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  github: 'https://github.com/hanpi-zq'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
